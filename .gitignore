@@ -1,0 +1,87 @@
+# Visual Studio generated files
+###################################
+*.suo
+*.pdb
+*.obj
+*.dll
+*.exe
+*.user
+*.cache
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.resources
+*.cachefile
+*.dmp
+*.VC.db
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+ipch/
+obj/
+bin/
+[Bb]uild/
+_ReSharper*/
+packages/
+
+# NuGet Packages
+###################################
+packages.config
+*.nupkg
+
+# Visual Studio temporary files
+###################################
+_UpgradeReport_Files/
+Debug*/
+Release*/
+
+# MSTest test result files
+###################################
+TestResults*/
+
+# Build results of all kinds
+###################################
+[Oo]ut/
+
+# Compiled binary files
+###################################
+*.o
+*.so
+*.class
+
+# Compiled assembly files
+###################################
+*.csproj.user
+*.sln.docstates
+*.sln.cache
+*.DotSettings.user
+
+# Documentation files
+###################################
+*.chm
+*.hxs
+
+# Packaging files
+###################################
+*.cab
+*.msi
+*.msp
+
+# Windows image file
+###################################
+*.iso
+
+# Other
+###################################
+[Tt]humbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+.vs/
+/Properties/PublishProfiles/*.*
